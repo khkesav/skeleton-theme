@@ -8,5 +8,98 @@
  * ------------------------------------------------------------
  */
 {
-  "current": {}
+  "current": {
+    "color_schemes": {
+      "scheme-1": {
+        "settings": {
+          "text": "#121212",
+          "heading": "#121212",
+          "background": "#ffffff",
+          "background_gradient": "",
+          "button_primary": "#121212",
+          "button_primary_background": "#ffffff",
+          "button_primary_background_hover": "#FFFFFF",
+          "button_primary_border": "#121212",
+          "button_secondary": "#ffffff",
+          "button_secondary_background": "rgba(0,0,0,0)",
+          "button_secondary_background_hover": "transparent",
+          "button_secondary_border": "#ffffff",
+          "links": "#121212",
+          "links_hover": "#121212"
+        }
+      },
+      "scheme-2": {
+        "settings": {
+          "text": "#121212",
+          "heading": "#121212",
+          "background": "#f3f3f3",
+          "background_gradient": "",
+          "button_primary": "#121212",
+          "button_primary_background": "#ffffff",
+          "button_primary_background_hover": "#FFFFFF",
+          "button_primary_border": "#121212",
+          "button_secondary": "#ffffff",
+          "button_secondary_background": "rgba(0,0,0,0)",
+          "button_secondary_background_hover": "transparent",
+          "button_secondary_border": "#ffffff",
+          "links": "#121212",
+          "links_hover": "#121212"
+        }
+      },
+      "scheme-3": {
+        "settings": {
+          "text": "#ffffff",
+          "heading": "#121212",
+          "background": "#242833",
+          "background_gradient": "",
+          "button_primary": "#121212",
+          "button_primary_background": "#ffffff",
+          "button_primary_background_hover": "#FFFFFF",
+          "button_primary_border": "#121212",
+          "button_secondary": "#ffffff",
+          "button_secondary_background": "rgba(0,0,0,0)",
+          "button_secondary_background_hover": "transparent",
+          "button_secondary_border": "#ffffff",
+          "links": "#121212",
+          "links_hover": "#121212"
+        }
+      },
+      "scheme-4": {
+        "settings": {
+          "text": "#ffffff",
+          "heading": "#121212",
+          "background": "#121212",
+          "background_gradient": "",
+          "button_primary": "#121212",
+          "button_primary_background": "#ffffff",
+          "button_primary_background_hover": "#FFFFFF",
+          "button_primary_border": "#121212",
+          "button_secondary": "#ffffff",
+          "button_secondary_background": "rgba(0,0,0,0)",
+          "button_secondary_background_hover": "transparent",
+          "button_secondary_border": "#ffffff",
+          "links": "#121212",
+          "links_hover": "#121212"
+        }
+      },
+      "scheme-5": {
+        "settings": {
+          "text": "#ffffff",
+          "heading": "#121212",
+          "background": "#334fb4",
+          "background_gradient": "",
+          "button_primary": "#121212",
+          "button_primary_background": "#ffffff",
+          "button_primary_background_hover": "#FFFFFF",
+          "button_primary_border": "#121212",
+          "button_secondary": "#ffffff",
+          "button_secondary_background": "rgba(0,0,0,0)",
+          "button_secondary_background_hover": "transparent",
+          "button_secondary_border": "#ffffff",
+          "links": "#121212",
+          "links_hover": "#121212"
+        }
+      }
+    }
+  }
 }
